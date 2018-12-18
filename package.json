@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "a package for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meysam-mahmoodi/jstest.git"
+  },
+  "keywords": [
+    "nativescript"
+  ],
+  "author": "Meysam Mahmoudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meysam-mahmoodi/jstest/issues"
+  },
+  "homepage": "https://github.com/meysam-mahmoodi/jstest#readme"
+}
